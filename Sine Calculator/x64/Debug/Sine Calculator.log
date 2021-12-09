@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+C:\Users\whatt\Documents\GitHub\Sine-Calculator\Sine Calculator\Source1.cpp(8,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\whatt\Documents\GitHub\Sine-Calculator\Sine Calculator\Source1.cpp(25,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Sine Calculator.vcxproj -> C:\Users\whatt\Documents\GitHub\Sine-Calculator\x64\Debug\Sine Calculator.exe
